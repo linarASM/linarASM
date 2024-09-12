@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @linarASM
+- 👀 I’m interested in create OS
+- 🌱 I’m currently learning NASM
+- 😄 Pronouns: he/him
